@@ -27,6 +27,7 @@ export default class ShowWeather extends React.Component {
         });
     }
     
+    
     onSubmit = (e) => {
         e.preventDefault();
         // Call fn weather forecasting
